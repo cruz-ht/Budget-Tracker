@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', function() {updateDisplay();});
 function addValidation(description, amount) {
 
     // checking the description isnt being left empty
-    if (description.trim()) {
+    if (description === "") {
         alert("Please Enter a Description.")
         return false;
     }
