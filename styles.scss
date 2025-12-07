@@ -30,6 +30,7 @@ body{
 h1 {
     margin: 2em 0em 1.5em 0em;
     text-align: center;
+    color:$primary-color;
 }
 .summary {
     display: flex;
@@ -44,7 +45,7 @@ section {
     margin: 1.2em 4em;
     padding: 1.2em;
     border-radius: 2em;
-    box-shadow: 0 0.2em 0.8em #7B7B75;
+    box-shadow: 0 0.2em 0.8em $color2;
     text-align: center;
     font-size: 1.2em;
     transition: transform 0.3s ease;
@@ -61,7 +62,7 @@ section {
     justify-content: space-evenly;
     gap: 0.7em;
     margin: 1.2em 1em;
-    background-color: #4e463780;
+    background-color: $primary-light;
     color: white;
 
     h3 {
