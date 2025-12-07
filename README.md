@@ -1,6 +1,6 @@
 # The Budget Tracker
 
-#Table of Contents
+# Table of Contents
 - [Project Overview](#Overview)
 - [Features](#Features)
 - [How it Works](#How-it-Works)
@@ -34,19 +34,19 @@ Live Budget Summary
 
 
 # How it Works
-1. Enter a description and amount for either income or expenses.
+1. *Enter a description and amount for either income or expenses.*
 
-2. Click Confirm.
+2. *Click Confirm.*
 
-3. View the updated totals in the summary section at the top of the page.
+3. *View the updated totals in the summary section at the top of the page.*
 
 
 # Installation
-1. Clone the Repository:
+1. *Clone the Repository:*
 https://github.com/cruz-ht/Budget-Tracker.git
 
 
-2. Navigate to the Project Folder:
+2. *Navigate to the Project Folder:*
 File -> Open Folder -> Calculator-Challenge
 
 
@@ -56,5 +56,5 @@ File -> Open Folder -> Calculator-Challenge
 https://budget-tracker-sepia-delta.vercel.app/
 
 # Author 
-> Created by Jessica Cruz as part of a JavaScript and SASS Budget-tracking project.
+Created by Jessica Cruz as part of a JavaScript and SASS Budget-tracking project.
 
